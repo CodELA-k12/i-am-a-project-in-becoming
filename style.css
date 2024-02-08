@@ -46,18 +46,18 @@ body, html {
     color: default;
     background-color: default;
     border: 0px solid black;
-    width: 70%;
-    padding: 50px;
+    width: 55%;
+    padding: 40px;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-left: auto;
     margin-right: auto;
     font: default;
-    font-size: 125%;
+    font-size: 1.25em;
   }
 
  /* This code helps your textblock scale for smaller screens */
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 800px) {
     .textblock {  
         color: default;
         background-color: default;
@@ -69,7 +69,7 @@ body, html {
         margin-left: auto;
         margin-right: auto;
         font: default;
-        font-size: 100%;
+        font-size: 1em;
     }
   }
 
@@ -155,7 +155,7 @@ ol {
 /* -Preset Polaroid */
 .polaroid {
     display: block;
-    width: 50%;
+    width: 40%;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-left: auto;
