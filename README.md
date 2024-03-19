@@ -1,37 +1,39 @@
-# I am...A Project in Becoming
+# Codelo Webtext Generator
 
-This multimodal coding project is a great way to break the ice at beginning of your school year. Why not use code to help your students introduce themselves to others in your classroom space? It's also an easy way for you to promote coding literacy, computational thinking, and computer science knowledge in your English Language Arts classroom.
+Welcome to Codelo Webtext Generator! This tool allows the user to mix and match div. blocks to quickly build a website similar to Wix, Weebly, or Wordpress. All of the design elements you need to make a smart website or web presentation are embedded in a code repository at the bottom of the document. We've also provided hidden comments to help guide you through the process.
 
-By working through the prompts in the index.html file, students will construct their own project explaining who they are, what they are doing, and where they are going. We ask students to present their page to the the class, but before we do, we encourage them to work in groups to debug their code.  
+Once you understand how this tool works, we recommend you fork this repository and create your own custom Webtext Generator.
+    
+[Go to Codela](https://codela-k12.github.io/projects/) to find more code-based tools and projects for the English Language Arts classroom.<p>&nbsp;</p>
 
-Should students wish to further customize their work, this template allows the user to mix and match div. blocks from the code repository at the bottom of the website. After this introduction, your students will be ready to tackle other Codela projects. [Go to Codela](https://codela-k12.github.io/codela-tools/) to find more code-based tools and projects for the English Language Arts classroom.<p>&nbsp;</p>
+[Watch our 3-min Codela Webtext Generator tutorial.](https://youtu.be/KVUBbM7pIYw?si=81tQ1FS9097FdWJd)
 
     
 ## Get started! 
 
-1. Scroll to the top of this repository and click the green "**Code**" button. Select "**Download ZIP**" to download ALL repository files to your local computer. These are all the project files you'll need to get started building your own website. 
+1. Scroll to the top of this repository and click the green "**Code**" button. Select "**Download ZIP**" to download project files to your local computer. These are all the project files you'll need to get started working with code.
 
 2. Find this project folder in your downloads and move it to a secure place on your local computer. You'll return to this project folder to manage your scripts, images, and other assets. 
 
 3. Download and/or open a text editor like [Pulsar](https://pulsar-edit.dev) or [Visual Studio Code](https://code.visualstudio.com/download) (Mac / Windows / Linux) or [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB) for Chromebooks. See instructions below on how to optimize your text editor.       
 
-4. Use the text editor to open your project folder and all project files.   
+4. Use the text editor to open the index.html document. Read through the code comments embedded in the index.html document. Here, you'll find all the information you need to work with code!  
 
-5. Select the index.html file. Start working with code by reading through the code comments embedded in this HTML document. This is where you'll find all the information you need to work with code! 
+5. Once you have added/modified content in your project folder, you can share your it with others. To view your project, simply open the index.html file in a browser window.   
 
-6. Once you have modified and added your files to your project file, you'll want to publish your project to the web. GitHub provides a good solution for "free" publishing. [Open GitHub](https://github.com), sign-in, or create a GitHub account.
+
+### Publishing to GitHub (optional)
+
+6. You can publish your project to the web using GitHub. GitHub provides a good solution for "free" publishing. [Open GitHub](https://github.com), sign-in, or create a GitHub account.
 
 7. Once you have an account, create a "**new repository**" to store your files. Click  "**uploading an existing file**" and add ALL of your individual project assets to your repository. After each asset is uploaded, hit "**Commit changes**." 
 
 8. Now you'll need to activate GitHub pages to create a website. In the repository top menu, select "**settings**." A new page will open. In the left-hand menu, select "**Pages**." Change the source setting from "**none**" to "**main**" "**/root**" and then Click "**Save**."
 
-9. Refresh your page after one minute. GitHub will provide you with a published GitHub URL. (This process may take more than on minute.)
+9. Refresh your page after several minutes. GitHub will provide you with a published GitHub URL.
 
 10. Test the URL in a browser. Magic, no? Actually, it's computer science. <p>&nbsp;</p>  
  
-
-
-
 
 ## Text Editors 
 
